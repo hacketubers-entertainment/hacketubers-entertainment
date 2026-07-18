@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, React Native**
 
-- 👨‍💻 All of my projects are available at [https://hacketubers-entertainment.github.io/](https://hacketubers-entertainment.github.io/)
+- 👨‍💻 All of my projects are available at [https://hacketubers-entertainment.github.io/](https://hacketubers-entertainment.com)
 
 - 📝 I regularly write articles on [https://pvz-news.vercel.app](https://pvz-news.vercel.app)
 
